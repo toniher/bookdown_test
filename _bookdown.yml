@@ -13,7 +13,6 @@ output:
   bookdown::gitbook:
     theme: cosmo
     highlight: tango
-output_dir: "docs"
 output_format: html
 
 
