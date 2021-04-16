@@ -1,6 +1,6 @@
 # bookdown_test
 
-A simple [Bookdown](https://bookdown.org/home/) test using Github actions for rendering and publishing.
+A simple [Bookdown](https://bookdown.org/home/) test using Github actions for rendering and publishing ([Gist of the action](https://gist.github.com/toniher/0014e214964c1c649d53da94ab0768d0)).
 
 Action placed at: ```.github/workflows/deploy_bookdown.yml```
 
