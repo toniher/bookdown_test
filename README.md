@@ -10,5 +10,7 @@ A simple [Bookdown](https://bookdown.org/home/) test using Github actions for re
 
 Example Bookdown [R Markdown](https://rmarkdown.rstudio.com/) thanks to [@SarahBonnin](https://github.com/sarahbonnin).
 
-Reference: https://orchid00.github.io/actions_sandbox/
+## References
 
+* https://orchid00.github.io/actions_sandbox/
+* https://medium.com/@delucmat/how-to-publish-bookdown-projects-with-github-actions-on-github-pages-6e6aecc7331e
