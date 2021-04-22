@@ -19,7 +19,7 @@ jobs:
       - uses: r-lib/actions/setup-r@v1
       - uses: r-lib/actions/setup-pandoc@v1
       - name: Update Ubuntu deps
-        run: sudo apt install libcurl4-openssl-dev libssl-dev libxml2-dev
+        run: sudo apt install -y libcurl4-openssl-dev libssl-dev libxml2-dev
       - name: Install rmarkdown
         run: Rscript -e 'install.packages(c("rmarkdown","bookdown","xml2","kableExtra"))'
       - name: Render Book
